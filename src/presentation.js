@@ -99,7 +99,7 @@ export default class Presentation extends React.Component {
           notes="Discuss issues with speed curve"
         >
           <Image src={'/speedcurve.png'} margin="0px auto 40px" />
-          <Heading size={6} fit textColor="primary" textFont="primary">
+          <Heading size={6} textColor="primary" textFont="primary">
             Speedcurve
           </Heading>
         </Slide>
